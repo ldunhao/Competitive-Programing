@@ -1,0 +1,18 @@
+ronaldo 55
+rogerio 30
+rafael 17
+andre 14
+arthur 12
+ricardo 11
+fabio 9
+alvaro 8
+lucas 7
+felipe 4
+rodrigo 3
+robson 2
+thiago 1
+rodolfo 0
+Time 1
+
+
+
