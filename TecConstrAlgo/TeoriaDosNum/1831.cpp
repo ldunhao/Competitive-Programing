@@ -32,6 +32,7 @@ int inv(int a, int m) {
   return x1; 
 } 
 
+// Teorema Chinês do Resto
 lli findMinX(vector<lli> a, vector<lli> b, int k) { 
   lli prod = 1; 
   for (int i = 0; i < k; i++){ 
